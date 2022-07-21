@@ -1,0 +1,6 @@
+name: BanPlugin
+version: '${project.version}'
+main: fr.chifouu.banplugin.BanPlugin
+commands:
+  punish:
+    description: /punish <player>
